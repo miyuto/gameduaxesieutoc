@@ -1,0 +1,32 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+btPlay : {up:play0, down:play1},
+btOption : {up:option0, down:option1},
+btGuiDiem : {up:diemcao1,down:diemcao2},
+btExit : {up:exit1, down:exit2},
+btDownload : {up:download1, down:download2},
+btInfo : {up:info1,down:info2},
+btShare : {up:share1, down:share2},
+btChon : {up:chon1,down:chon2},
+btBackShop : {up:back1,down:back2},
+btNextShop : {up:next1,down:next2},
+btTroVe : {up:trove1,down:trove2},
+btBuyShop : {up:mua1,down:mua2},
+btPause : {up:pau},
+btChoiTiep: {up:tieptuc0,down:tieptuc1},
+btChoiMoi: {up:choilai0,down:choilai2},
+btTuyChon: {up:tuychon0,down:tuychon1},
+btAmThanhPause : {up:amthanhon,checked:amthanhoff},
+btNhacPause: {up:nhacnenon,checked:nhacnenoff},
+btMenu : {up:tuychon0,down:tuychon1},
+btDua : {up:dua1,down:dua2},
+btNextChonMan : {up:next1,down:next2},
+btBackChonMan : {up:back1,down:back2},
+btMusic : {up:bat,checked:tat},
+btSound : {up:bat,checked:tat},
+btChoiLai : {up:choilai,down:choilai2},
+btMenuFinish : {up:menu_finish,down:menu_finish1},
+btNapXu: {up:napxu,down:napxu},
+	}
+}
+

@@ -1,0 +1,891 @@
+
+duaxe.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 222
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+dua-xe-ban-sung
+  rotate: false
+  xy: 1, 33
+  size: 480, 187
+  orig: 480, 187
+  offset: 0, 0
+  index: -1
+nitro0
+  rotate: false
+  xy: 1, 1
+  size: 233, 30
+  orig: 233, 30
+  offset: 0, 0
+  index: -1
+nitro1
+  rotate: false
+  xy: 236, 1
+  size: 233, 30
+  orig: 233, 30
+  offset: 0, 0
+  index: -1
+amthanhoff
+  rotate: false
+  xy: 471, 1
+  size: 108, 30
+  orig: 108, 30
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 483, 222
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+lock_police1
+  rotate: false
+  xy: 581, 20
+  size: 317, 200
+  orig: 317, 200
+  offset: 0, 0
+  index: -1
+police3
+  rotate: false
+  xy: 483, 91
+  size: 73, 129
+  orig: 73, 129
+  offset: 0, 0
+  index: -1
+pau
+  rotate: false
+  xy: 483, 55
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+num0
+  rotate: false
+  xy: 483, 33
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+num1
+  rotate: false
+  xy: 514, 33
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+num2
+  rotate: false
+  xy: 545, 33
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+xe1
+  rotate: false
+  xy: 900, 15
+  size: 80, 205
+  orig: 80, 205
+  offset: 0, 0
+  index: -1
+khoi1
+  rotate: false
+  xy: 965, 872
+  size: 53, 150
+  orig: 53, 150
+  offset: 0, 0
+  index: -1
+khoi2
+  rotate: false
+  xy: 965, 720
+  size: 53, 150
+  orig: 53, 150
+  offset: 0, 0
+  index: -1
+khoi3
+  rotate: false
+  xy: 965, 568
+  size: 53, 150
+  orig: 53, 150
+  offset: 0, 0
+  index: -1
+khoi4
+  rotate: false
+  xy: 965, 416
+  size: 53, 150
+  orig: 53, 150
+  offset: 0, 0
+  index: -1
+khoi5
+  rotate: false
+  xy: 965, 264
+  size: 53, 150
+  orig: 53, 150
+  offset: 0, 0
+  index: -1
+num3
+  rotate: false
+  xy: 965, 242
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+back1
+  rotate: false
+  xy: 982, 193
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+back2
+  rotate: false
+  xy: 982, 144
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+next1
+  rotate: false
+  xy: 982, 95
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+next2
+  rotate: false
+  xy: 982, 46
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+num4
+  rotate: false
+  xy: 982, 24
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+num5
+  rotate: false
+  xy: 982, 2
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+
+duaxe2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BG2
+  rotate: false
+  xy: 1, 223
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+lock_police2
+  rotate: false
+  xy: 1, 22
+  size: 317, 199
+  orig: 317, 199
+  offset: 0, 0
+  index: -1
+xe3
+  rotate: false
+  xy: 320, 16
+  size: 80, 205
+  orig: 80, 205
+  offset: 0, 0
+  index: -1
+lock_police3
+  rotate: false
+  xy: 402, 25
+  size: 317, 196
+  orig: 317, 196
+  offset: 0, 0
+  index: -1
+BG_FINISH
+  rotate: false
+  xy: 483, 223
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+GO
+  rotate: false
+  xy: 721, 132
+  size: 298, 89
+  orig: 298, 89
+  offset: 0, 0
+  index: -1
+xe5
+  rotate: false
+  xy: 721, 1
+  size: 72, 129
+  orig: 72, 129
+  offset: 0, 0
+  index: -1
+xe7
+  rotate: false
+  xy: 795, 1
+  size: 72, 129
+  orig: 72, 129
+  offset: 0, 0
+  index: -1
+police2
+  rotate: false
+  xy: 869, 1
+  size: 71, 129
+  orig: 71, 129
+  offset: 0, 0
+  index: -1
+xe2
+  rotate: false
+  xy: 942, 1
+  size: 71, 129
+  orig: 71, 129
+  offset: 0, 0
+  index: -1
+napxu
+  rotate: false
+  xy: 965, 964
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+num6
+  rotate: false
+  xy: 402, 3
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+num7
+  rotate: false
+  xy: 433, 3
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+num8
+  rotate: false
+  xy: 464, 3
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+num9
+  rotate: false
+  xy: 495, 3
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+
+duaxe3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hinhnen
+  rotate: false
+  xy: 1, 223
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 483, 420
+  size: 444, 603
+  orig: 444, 603
+  offset: 0, 0
+  index: -1
+bang-thong-tin
+  rotate: false
+  xy: 483, 185
+  size: 400, 233
+  orig: 400, 233
+  offset: 0, 0
+  index: -1
+shopxe1
+  rotate: false
+  xy: 1, 40
+  size: 317, 181
+  orig: 317, 181
+  offset: 0, 0
+  index: -1
+khung-tien
+  rotate: false
+  xy: 1, 1
+  size: 226, 37
+  orig: 226, 37
+  offset: 0, 0
+  index: -1
+bgdiem
+  rotate: false
+  xy: 320, 126
+  size: 425, 57
+  orig: 425, 57
+  offset: 0, 0
+  index: -1
+thang
+  rotate: false
+  xy: 320, 58
+  size: 404, 66
+  orig: 404, 66
+  offset: 0, 0
+  index: -1
+mua1
+  rotate: false
+  xy: 320, 1
+  size: 268, 55
+  orig: 268, 55
+  offset: 0, 0
+  index: -1
+mua2
+  rotate: false
+  xy: 590, 1
+  size: 268, 55
+  orig: 268, 55
+  offset: 0, 0
+  index: -1
+xe4
+  rotate: false
+  xy: 929, 894
+  size: 71, 129
+  orig: 71, 129
+  offset: 0, 0
+  index: -1
+xe8
+  rotate: false
+  xy: 929, 763
+  size: 71, 129
+  orig: 71, 129
+  offset: 0, 0
+  index: -1
+xe9
+  rotate: false
+  xy: 929, 632
+  size: 71, 129
+  orig: 71, 129
+  offset: 0, 0
+  index: -1
+xe6
+  rotate: false
+  xy: 929, 501
+  size: 68, 129
+  orig: 68, 129
+  offset: 0, 0
+  index: -1
+dua1
+  rotate: false
+  xy: 747, 129
+  size: 268, 54
+  orig: 268, 54
+  offset: 0, 0
+  index: -1
+chon1
+  rotate: false
+  xy: 747, 76
+  size: 268, 51
+  orig: 268, 51
+  offset: 0, 0
+  index: -1
+time
+  rotate: false
+  xy: 860, 34
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+police1
+  rotate: false
+  xy: 885, 289
+  size: 67, 129
+  orig: 67, 129
+  offset: 0, 0
+  index: -1
+gia
+  rotate: false
+  xy: 320, 188
+  size: 129, 33
+  orig: 129, 33
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 885, 198
+  size: 128, 89
+  orig: 128, 89
+  offset: 0, 0
+  index: -1
+trove1
+  rotate: false
+  xy: 860, 5
+  size: 119, 27
+  orig: 119, 27
+  offset: 0, 0
+  index: -1
+warning
+  rotate: false
+  xy: 929, 422
+  size: 85, 77
+  orig: 85, 77
+  offset: 0, 0
+  index: -1
+xe10
+  rotate: false
+  xy: 954, 291
+  size: 67, 129
+  orig: 67, 129
+  offset: 0, 0
+  index: -1
+
+duaxe4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+option-BG
+  rotate: false
+  xy: 1, 537
+  size: 410, 486
+  orig: 410, 486
+  offset: 0, 0
+  index: -1
+khungShop
+  rotate: false
+  xy: 1, 102
+  size: 410, 433
+  orig: 410, 433
+  offset: 0, 0
+  index: -1
+gamepausegame
+  rotate: false
+  xy: 413, 554
+  size: 367, 469
+  orig: 367, 469
+  offset: 0, 0
+  index: -1
+mapchon0
+  rotate: false
+  xy: 413, 105
+  size: 269, 447
+  orig: 269, 447
+  offset: 0, 0
+  index: -1
+mapchon1
+  rotate: false
+  xy: 684, 105
+  size: 269, 447
+  orig: 269, 447
+  offset: 0, 0
+  index: -1
+chon-man
+  rotate: false
+  xy: 1, 50
+  size: 404, 50
+  orig: 404, 50
+  offset: 0, 0
+  index: -1
+cua hang
+  rotate: false
+  xy: 413, 53
+  size: 404, 50
+  orig: 404, 50
+  offset: 0, 0
+  index: -1
+am-thanh
+  rotate: false
+  xy: 407, 1
+  size: 395, 50
+  orig: 395, 50
+  offset: 0, 0
+  index: -1
+nitro2
+  rotate: false
+  xy: 782, 989
+  size: 237, 34
+  orig: 237, 34
+  offset: 0, 0
+  index: -1
+score
+  rotate: false
+  xy: 1, 8
+  size: 204, 40
+  orig: 204, 40
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 782, 898
+  size: 128, 89
+  orig: 128, 89
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 207, 8
+  size: 169, 40
+  orig: 169, 40
+  offset: 0, 0
+  index: -1
+vatcan0
+  rotate: false
+  xy: 782, 820
+  size: 96, 76
+  orig: 96, 76
+  offset: 0, 0
+  index: -1
+nitro
+  rotate: false
+  xy: 819, 70
+  size: 129, 33
+  orig: 129, 33
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 912, 898
+  size: 59, 89
+  orig: 59, 89
+  offset: 0, 0
+  index: -1
+vmax
+  rotate: false
+  xy: 819, 35
+  size: 129, 33
+  orig: 129, 33
+  offset: 0, 0
+  index: -1
+vatcan1
+  rotate: false
+  xy: 782, 757
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+trove2
+  rotate: false
+  xy: 804, 6
+  size: 119, 27
+  orig: 119, 27
+  offset: 0, 0
+  index: -1
+download1
+  rotate: false
+  xy: 880, 858
+  size: 97, 38
+  orig: 97, 38
+  offset: 0, 0
+  index: -1
+download2
+  rotate: false
+  xy: 880, 818
+  size: 97, 38
+  orig: 97, 38
+  offset: 0, 0
+  index: -1
+bat
+  rotate: false
+  xy: 862, 783
+  size: 122, 33
+  orig: 122, 33
+  offset: 0, 0
+  index: -1
+tat
+  rotate: false
+  xy: 862, 748
+  size: 122, 33
+  orig: 122, 33
+  offset: 0, 0
+  index: -1
+amthanhon
+  rotate: false
+  xy: 782, 716
+  size: 108, 30
+  orig: 108, 30
+  offset: 0, 0
+  index: -1
+nhacnenoff
+  rotate: false
+  xy: 782, 684
+  size: 108, 30
+  orig: 108, 30
+  offset: 0, 0
+  index: -1
+nhacnenon
+  rotate: false
+  xy: 782, 652
+  size: 108, 30
+  orig: 108, 30
+  offset: 0, 0
+  index: -1
+exit1
+  rotate: false
+  xy: 782, 612
+  size: 97, 38
+  orig: 97, 38
+  offset: 0, 0
+  index: -1
+exit2
+  rotate: false
+  xy: 782, 572
+  size: 97, 38
+  orig: 97, 38
+  offset: 0, 0
+  index: -1
+info1
+  rotate: false
+  xy: 892, 708
+  size: 97, 38
+  orig: 97, 38
+  offset: 0, 0
+  index: -1
+info2
+  rotate: false
+  xy: 892, 668
+  size: 97, 38
+  orig: 97, 38
+  offset: 0, 0
+  index: -1
+share1
+  rotate: false
+  xy: 892, 628
+  size: 97, 38
+  orig: 97, 38
+  offset: 0, 0
+  index: -1
+share2
+  rotate: false
+  xy: 881, 588
+  size: 97, 38
+  orig: 97, 38
+  offset: 0, 0
+  index: -1
+
+duaxe5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mapchon2
+  rotate: false
+  xy: 1, 570
+  size: 269, 447
+  orig: 269, 447
+  offset: 0, 0
+  index: -1
+shopxe0
+  rotate: false
+  xy: 1, 403
+  size: 317, 165
+  orig: 317, 165
+  offset: 0, 0
+  index: -1
+mapchon3
+  rotate: false
+  xy: 272, 570
+  size: 269, 447
+  orig: 269, 447
+  offset: 0, 0
+  index: -1
+mapchon4
+  rotate: false
+  xy: 320, 121
+  size: 269, 447
+  orig: 269, 447
+  offset: 0, 0
+  index: -1
+mapchon5
+  rotate: false
+  xy: 543, 570
+  size: 269, 447
+  orig: 269, 447
+  offset: 0, 0
+  index: -1
+shopxe2
+  rotate: false
+  xy: 1, 251
+  size: 317, 150
+  orig: 317, 150
+  offset: 0, 0
+  index: -1
+choilai0
+  rotate: false
+  xy: 1, 201
+  size: 286, 48
+  orig: 286, 48
+  offset: 0, 0
+  index: -1
+choilai2
+  rotate: false
+  xy: 1, 151
+  size: 286, 48
+  orig: 286, 48
+  offset: 0, 0
+  index: -1
+tieptuc0
+  rotate: false
+  xy: 1, 101
+  size: 286, 48
+  orig: 286, 48
+  offset: 0, 0
+  index: -1
+thua
+  rotate: false
+  xy: 289, 60
+  size: 364, 59
+  orig: 364, 59
+  offset: 0, 0
+  index: -1
+tieptuc1
+  rotate: false
+  xy: 1, 51
+  size: 286, 48
+  orig: 286, 48
+  offset: 0, 0
+  index: -1
+diemcao1
+  rotate: false
+  xy: 289, 1
+  size: 395, 57
+  orig: 395, 57
+  offset: 0, 0
+  index: -1
+tuychon0
+  rotate: false
+  xy: 1, 1
+  size: 286, 48
+  orig: 286, 48
+  offset: 0, 0
+  index: -1
+diemcao2
+  rotate: false
+  xy: 591, 511
+  size: 395, 57
+  orig: 395, 57
+  offset: 0, 0
+  index: -1
+nhac-nen
+  rotate: false
+  xy: 591, 459
+  size: 395, 50
+  orig: 395, 50
+  offset: 0, 0
+  index: -1
+option0
+  rotate: false
+  xy: 591, 407
+  size: 395, 50
+  orig: 395, 50
+  offset: 0, 0
+  index: -1
+option1
+  rotate: false
+  xy: 591, 355
+  size: 395, 50
+  orig: 395, 50
+  offset: 0, 0
+  index: -1
+play0
+  rotate: false
+  xy: 591, 303
+  size: 395, 50
+  orig: 395, 50
+  offset: 0, 0
+  index: -1
+play1
+  rotate: false
+  xy: 591, 251
+  size: 395, 50
+  orig: 395, 50
+  offset: 0, 0
+  index: -1
+shop0
+  rotate: false
+  xy: 591, 199
+  size: 395, 50
+  orig: 395, 50
+  offset: 0, 0
+  index: -1
+choilai
+  rotate: false
+  xy: 655, 140
+  size: 348, 57
+  orig: 348, 57
+  offset: 0, 0
+  index: -1
+choilai1
+  rotate: false
+  xy: 655, 81
+  size: 348, 57
+  orig: 348, 57
+  offset: 0, 0
+  index: -1
+dua2
+  rotate: false
+  xy: 686, 25
+  size: 268, 54
+  orig: 268, 54
+  offset: 0, 0
+  index: -1
+
+duaxe6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lock-screen
+  rotate: false
+  xy: 1, 54
+  size: 269, 422
+  orig: 269, 422
+  offset: 0, 0
+  index: -1
+shop1
+  rotate: false
+  xy: 272, 426
+  size: 395, 50
+  orig: 395, 50
+  offset: 0, 0
+  index: -1
+guidiem
+  rotate: false
+  xy: 272, 367
+  size: 348, 57
+  orig: 348, 57
+  offset: 0, 0
+  index: -1
+menu_finish
+  rotate: false
+  xy: 272, 308
+  size: 348, 57
+  orig: 348, 57
+  offset: 0, 0
+  index: -1
+menu_finish1
+  rotate: false
+  xy: 272, 249
+  size: 348, 57
+  orig: 348, 57
+  offset: 0, 0
+  index: -1
+tuychon1
+  rotate: false
+  xy: 669, 428
+  size: 286, 48
+  orig: 286, 48
+  offset: 0, 0
+  index: -1
+chon2
+  rotate: false
+  xy: 1, 1
+  size: 268, 51
+  orig: 268, 51
+  offset: 0, 0
+  index: -1
